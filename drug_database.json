@@ -1,0 +1,27 @@
+{
+  "paracetamol": {
+    "class": "Analgesic / Antipyretic",
+    "forms": ["tablet", "syrup", "injection"],
+    "strengths": ["125 mg", "250 mg", "500 mg", "650 mg"]
+  },
+  "azithromycin": {
+    "class": "Antibiotic (Macrolide)",
+    "forms": ["tablet", "syrup"],
+    "strengths": ["250 mg", "500 mg"]
+  },
+  "amoxicillin clavulanate": {
+    "class": "Antibiotic (Penicillin + Beta-lactamase inhibitor)",
+    "forms": ["tablet", "capsule", "syrup"],
+    "strengths": ["375 mg", "625 mg"]
+  },
+  "amlodipine": {
+    "class": "Antihypertensive (CCB)",
+    "forms": ["tablet"],
+    "strengths": ["2.5 mg", "5 mg", "10 mg"]
+  },
+  "metformin": {
+    "class": "Antidiabetic",
+    "forms": ["tablet"],
+    "strengths": ["500 mg", "850 mg", "1000 mg"]
+  }
+}
